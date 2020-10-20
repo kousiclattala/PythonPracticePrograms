@@ -18,14 +18,13 @@ for i in range(n):
     step = 0
     while step < 2:
         for space in range((n-i)*2):
-            print(' ',end='')
-        
+            print(' ', end='')
+
         for j in range(starCount+2):
-            print('*',end='')
-            print(' ',end='')
+            print('*', end='')
+            print(' ', end='')
 
         step += 1
         print('')
 
     starCount += 2
-    
