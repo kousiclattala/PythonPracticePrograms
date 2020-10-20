@@ -8,5 +8,6 @@ def exact_water(req_water):
 
     print(f'{cup1 - cup2}')
 
+
 req_water = 200
 exact_water(req_water)
