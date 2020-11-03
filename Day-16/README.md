@@ -1,3 +1,4 @@
 # Question
 
-Find the square of a number without using multiplication and division operator.
+Write a program to get the sum of "n" number?
+Eg. sum of 123 is 6. "n" is user entered value.
